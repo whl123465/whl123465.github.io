@@ -275,6 +275,7 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 1. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 感谢这个作者。 
 2. 感谢 Jekyll、Github Pages 和 Bootstrap!
+3. 感谢 [邱柏荧(BY)](https://baiyingqiu.github.io) 大神。
 
 ## License
 
