@@ -35,16 +35,16 @@
 
 ```
 # Site settings
-title: BY Blog                    # 你的博客网站标题
-SEOTitle: 柏荧的博客 | BY Blog		# SEO 标题
+title: 手背后的博客                    # 你的博客网站标题
+SEOTitle: 手背后的博客		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
-github_username: qiubaiying     # 你的github账号
-jianshu_username: e71990ada2fd  # 你的简书ID。
+github_username: whl123465     # 你的github账号
+jianshu_username: 1234567  # 你的简书ID。
 
 # Build settings
-# paginate: 10              # 一页你准备放几篇文章
+# paginate: 5              # 一页你准备放几篇文章
 ```
 
 Jekyll官方网站还有很多的参数可以调，比如设置文章的链接形式...网址在这里：[Jekyll - Official Site](http://jekyllrb.com/) 中文版的在这里：[Jekyll中文](http://jekyllcn.com/).
