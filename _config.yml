@@ -77,7 +77,7 @@ gitalk:
 ba_track_id: 6f9e5594009306ccad56a89ed0a66888
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-146247549-1'            # Format: UA-xxxxxx-xx
 ga_domain: whl123465.github.io               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
