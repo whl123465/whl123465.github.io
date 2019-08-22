@@ -1,6 +1,6 @@
 # Site settings
-title: BY GitHub
-SEOTitle: 手背后的博客 | BY GitHub
+title: 手背后的博客
+SEOTitle: 手背后的博客
 header-img: img/post-bg-desk.jpg
 email: whllvyy@hotmail.com
 description: "读万卷书，行万里路。"
@@ -17,7 +17,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 
 # SNS settings
-RSS: true
+RSS: false
 # weibo_username:     whl123465
 zhihu_username:     whl123465
 github_username:    whl123465
