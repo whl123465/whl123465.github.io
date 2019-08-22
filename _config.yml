@@ -99,8 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Weibo",
-        href: "https://weibo.com/whl123465"
+        title: "GitHub",
+        href: "https://github.com"
+    },{
+        title: "Google",
+        href: "https://google.com"
     },{
         title: "Apple",
         href: "https://apple.com"
